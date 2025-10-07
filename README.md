@@ -23,8 +23,5 @@ Estructura del repositorio
 
 
 
-Pendientes
- Aprobación del tema por parte del profesor  
- Construcción de diccionario de datos  
- Limpieza e integración de datasets  
- Análisis preliminar y exportación de resultados
+Dirve: 
+https://drive.google.com/drive/folders/1IOCF08iy6_N057UR9oORMXLbraNsOgOW?usp=share_link
